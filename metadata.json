@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Multi-Modal Sandbox",
+  "description": "A powerful testing environment for the Gemini API, featuring real-time text generation and multi-modal image analysis. Experiment with different models and refine your prompts in a clean, professional UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
